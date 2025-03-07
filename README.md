@@ -31,7 +31,7 @@ The docker compose file for this quickstart is very similar to what is provided 
 
 ```bash
 # Start docker-compose via Makefile command.
-make startup
+make start
 ```
 
 The above command set up the postgres meta-datbase, webserver, scheduler, and workers. It may take a few moments for everything to initialize.
